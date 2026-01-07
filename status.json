@@ -1,4 +1,113 @@
 {
-  "last_updated": "2026-01-07T09:49:03.716629",
-  "groups": []
+  "last_updated": "2026-01-07T10:19:42.735802",
+  "groups": [
+    {
+      "group_id": "r1g1-1",
+      "group_name": "Група 1.1",
+      "current": {
+        "status": "ON",
+        "time_range": "00:00 - 12:30",
+        "is_powered": true
+      }
+    },
+    {
+      "group_id": "r1g1-2",
+      "group_name": "Група 1.2",
+      "current": {
+        "status": "ON",
+        "time_range": "05:30 - 12:30",
+        "is_powered": true
+      }
+    },
+    {
+      "group_id": "r1g2-1",
+      "group_name": "Група 2.1",
+      "current": {
+        "status": "ON",
+        "time_range": "00:00 - 12:30",
+        "is_powered": true
+      }
+    },
+    {
+      "group_id": "r1g2-2",
+      "group_name": "Група 2.2",
+      "current": {
+        "status": "ON",
+        "time_range": "00:00 - 14:00",
+        "is_powered": true
+      }
+    },
+    {
+      "group_id": "r1g3-1",
+      "group_name": "Група 3.1",
+      "current": {
+        "status": "ON",
+        "time_range": "09:30 - 16:00",
+        "is_powered": true
+      }
+    },
+    {
+      "group_id": "r1g3-2",
+      "group_name": "Група 3.2",
+      "current": {
+        "status": "ON",
+        "time_range": "09:30 - 16:00",
+        "is_powered": true
+      }
+    },
+    {
+      "group_id": "r1g4-1",
+      "group_name": "Група 4.1",
+      "current": {
+        "status": "ON",
+        "time_range": "09:30 - 16:00",
+        "is_powered": true
+      }
+    },
+    {
+      "group_id": "r1g4-2",
+      "group_name": "Група 4.2",
+      "current": {
+        "status": "ON",
+        "time_range": "09:30 - 16:00",
+        "is_powered": true
+      }
+    },
+    {
+      "group_id": "r1g5-1",
+      "group_name": "Група 5.1",
+      "current": {
+        "status": "OFF",
+        "time_range": "09:00 - 13:00",
+        "is_powered": false
+      }
+    },
+    {
+      "group_id": "r1g5-2",
+      "group_name": "Група 5.2",
+      "current": {
+        "status": "OFF",
+        "time_range": "09:00 - 13:00",
+        "is_powered": false
+      }
+    },
+    {
+      "group_id": "r1g6-1",
+      "group_name": "Група 6.1",
+      "current": {
+        "status": "OFF",
+        "time_range": "09:00 - 16:00",
+        "is_powered": false
+      }
+    },
+    {
+      "group_id": "r1g6-2",
+      "group_name": "Група 6.2",
+      "current": {
+        "status": "OFF",
+        "time_range": "09:00 - 13:00",
+        "is_powered": false
+      }
+    }
+  ]
 }

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08T05:47:36.778331",
+  "last_updated": "2026-01-08T06:28:16.967619",
   "groups": [
     {
       "group_id": "r1g1-1",
@@ -86,9 +86,9 @@
       "group_id": "r1g5-2",
       "group_name": "Група 5.2",
       "current": {
-        "status": "ON",
-        "time_range": "00:00 - 08:00",
-        "is_powered": true
+        "status": "OFF",
+        "time_range": "08:00 - 10:00",
+        "is_powered": false
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-08T07:45:24.408983",
+  "last_updated": "2026-01-08T08:24:56.749792",
   "groups": [
     {
       "group_id": "r1g1-1",
@@ -77,27 +77,27 @@
       "group_id": "r1g5-1",
       "group_name": "Група 5.1",
       "current": {
-        "status": "OFF",
-        "time_range": "06:00 - 10:00",
-        "is_powered": false
+        "status": "ON",
+        "time_range": "10:00 - 16:30",
+        "is_powered": true
       }
     },
     {
       "group_id": "r1g5-2",
       "group_name": "Група 5.2",
       "current": {
-        "status": "OFF",
-        "time_range": "08:00 - 10:00",
-        "is_powered": false
+        "status": "ON",
+        "time_range": "10:00 - 16:30",
+        "is_powered": true
       }
     },
     {
       "group_id": "r1g6-1",
       "group_name": "Група 6.1",
       "current": {
-        "status": "OFF",
-        "time_range": "06:00 - 10:00",
-        "is_powered": false
+        "status": "ON",
+        "time_range": "10:00 - 16:30",
+        "is_powered": true
       }
     },
     {

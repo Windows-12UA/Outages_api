@@ -1,13 +1,13 @@
 {
-  "last_updated": "2026-01-13T05:47:33.244611",
+  "last_updated": "2026-01-13T06:27:37.950803",
   "groups": [
     {
       "group_id": "r1g1-1",
       "group_name": "Група 1.1",
       "current": {
-        "status": "ON",
-        "time_range": "00:00 - 08:00",
-        "is_powered": true
+        "status": "OFF",
+        "time_range": "08:00 - 12:00",
+        "is_powered": false
       }
     },
     {

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-13T16:57:32.000605",
+  "last_updated": "2026-01-13T17:28:10.086624",
   "groups": [
     {
       "group_id": "r1g1-1",
@@ -41,54 +41,54 @@
       "group_id": "r1g3-1",
       "group_name": "Група 3.1",
       "current": {
-        "status": "ON",
-        "time_range": "15:30 - 19:00",
-        "is_powered": true
+        "status": "OFF",
+        "time_range": "19:00 - 23:00",
+        "is_powered": false
       }
     },
     {
       "group_id": "r1g3-2",
       "group_name": "Група 3.2",
       "current": {
-        "status": "ON",
-        "time_range": "15:30 - 19:00",
-        "is_powered": true
+        "status": "OFF",
+        "time_range": "19:00 - 23:00",
+        "is_powered": false
       }
     },
     {
       "group_id": "r1g4-1",
       "group_name": "Група 4.1",
       "current": {
-        "status": "ON",
-        "time_range": "15:30 - 19:00",
-        "is_powered": true
+        "status": "OFF",
+        "time_range": "19:00 - 23:00",
+        "is_powered": false
       }
     },
     {
       "group_id": "r1g4-2",
       "group_name": "Група 4.2",
       "current": {
-        "status": "ON",
-        "time_range": "15:30 - 19:00",
-        "is_powered": true
+        "status": "OFF",
+        "time_range": "19:00 - 23:00",
+        "is_powered": false
       }
     },
     {
       "group_id": "r1g5-1",
       "group_name": "Група 5.1",
       "current": {
-        "status": "OFF",
-        "time_range": "12:00 - 19:00",
-        "is_powered": false
+        "status": "ON",
+        "time_range": "19:00 - 22:30",
+        "is_powered": true
       }
     },
     {
       "group_id": "r1g5-2",
       "group_name": "Група 5.2",
       "current": {
-        "status": "OFF",
-        "time_range": "12:00 - 19:00",
-        "is_powered": false
+        "status": "ON",
+        "time_range": "19:00 - 22:30",
+        "is_powered": true
       }
     },
     {
@@ -104,9 +104,9 @@
       "group_id": "r1g6-2",
       "group_name": "Група 6.2",
       "current": {
-        "status": "OFF",
-        "time_range": "15:00 - 19:00",
-        "is_powered": false
+        "status": "ON",
+        "time_range": "19:00 - 22:30",
+        "is_powered": true
       }
     }
   ]
